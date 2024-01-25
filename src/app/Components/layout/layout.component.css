@@ -1,0 +1,7 @@
+
+.rotate{
+    animation: rotate 1s linear infinite;
+}
+.dontRotate{
+    animation: none;
+}
